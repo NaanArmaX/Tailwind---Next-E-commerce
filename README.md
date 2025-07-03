@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛍️ E-commerce com Next.js + Tailwind CSS
 
-## Getting Started
+Um e-commerce funcional desenvolvido com **Next.js** e **Tailwind CSS**, conectado a um banco de dados real. Projeto focado em performance, responsividade e organização do front-end, servindo como base para aplicações completas de loja virtual.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Funcionalidades
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🖼️ Listagem de produtos reais vindos do banco de dados
+- 🔍 Filtro por categorias e busca por nome
+- 🛒 Simulação de carrinho de compras (estado local)
+- ⚡️ Navegação rápida com Next.js
+- 🎨 Estilização com Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tecnologias Utilizadas
 
-## Learn More
+- [Next.js](https://nextjs.org/) – Framework React
+- [Tailwind CSS](https://tailwindcss.com/) – Estilização com classes utilitárias
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html) – Estado e lógica de UI
+- **Banco de Dados (ex: MySQL, PostgreSQL ou MongoDB)** – Produtos carregados dinamicamente
+- [Prisma ou Mongoose] – ORM/ODM para comunicação com o banco
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧑‍💻 Como Rodar Localmente
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+git clone https://github.com/seu-usuario/simplestore.git
+npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
