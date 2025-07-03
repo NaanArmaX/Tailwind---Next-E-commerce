@@ -20,7 +20,7 @@ Um e-commerce funcional desenvolvido com **Next.js** e **Tailwind CSS**, conecta
 - [Tailwind CSS](https://tailwindcss.com/) – Estilização com classes utilitárias
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html) – Estado e lógica de UI
 - **Banco de Dados (ex: MySQL, PostgreSQL ou MongoDB)** – Produtos carregados dinamicamente
-- [Prisma ou Mongoose] – ORM/ODM para comunicação com o banco
+- [Prisma] – ORM/ODM para comunicação com o banco
 
 ---
 
